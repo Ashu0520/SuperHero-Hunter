@@ -12,4 +12,4 @@ Develop a superhero hunter application using only pure JavaScript.
 - Navigate to your favorite heroes page by clicking on the "Favorite heroes" link in the top right corner of the homepage.
 - In the favorites page, view a list of your favorite superheroes and remove a superhero from this list by selecting the respective option.
 
-- Hosted Link : 
+- Hosted Link : https://ashu0520.github.io/SuperHero-Hunter/
